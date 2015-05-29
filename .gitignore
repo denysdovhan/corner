@@ -1,2 +1,9 @@
+# Files
+*.css
+
+# Folders
+node_modules
+
+# Misc
 *.sublime-project
 *.sublime-workspace
