@@ -1,0 +1,18 @@
+{
+  "name": "lizardless",
+  "version": "0.0.1",
+  "description": "Library of less-mixins and tools.",
+  "scripts": {
+    "test": "lessc core/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denysdovhan/lizard.git"
+  },
+  "author": "Denys Dovhan <email@denysdovhan.com> (http://denysdovhan.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denysdovhan/lizard/issues"
+  },
+  "homepage": "https://github.com/denysdovhan/lizard#readme"
+}
