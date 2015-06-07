@@ -1,18 +1,18 @@
 {
-  "name": "lizardless",
-  "version": "0.0.1",
+  "name": "corner",
+  "version": "0.0.0",
   "description": "Library of less-mixins and tools.",
   "scripts": {
     "test": "lessc core/*"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denysdovhan/lizard.git"
+    "url": "git+https://github.com/denysdovhan/corner.git"
   },
   "author": "Denys Dovhan <email@denysdovhan.com> (http://denysdovhan.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/denysdovhan/lizard/issues"
+    "url": "https://github.com/denysdovhan/corner/issues"
   },
-  "homepage": "https://github.com/denysdovhan/lizard#readme"
+  "homepage": "https://github.com/denysdovhan/corner#readme"
 }
