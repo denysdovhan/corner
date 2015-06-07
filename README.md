@@ -1,8 +1,8 @@
-# Lizard
+# Corner
 
-[![Build Status](https://travis-ci.org/denysdovhan/lizard.svg?branch=master)](https://travis-ci.org/denysdovhan/lizard)
+[![Build Status](https://travis-ci.org/denysdovhan/corner.svg?branch=master)](https://travis-ci.org/denysdovhan/corner)
 
-This is **Lizard** - library of less-mixins and tools. It may make your less code more flexible and leaner.
+This is **Corner** - library of less-mixins and tools. It may make your less code more flexible and leaner.
 
 See soon.
 Develop is continuing...
